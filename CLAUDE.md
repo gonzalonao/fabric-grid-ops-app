@@ -3,8 +3,8 @@
 ## Project
 
 Operational Fabric App (Rayfin) alert-ack console (P4). Plan:
-`wiki/learning/fabric/fabric-p4-fabric-apps.md` in the workspace wiki (master:
-`fabric-portfolio-plan.md`).
+`docs/fabric-p4-fabric-apps.md` (master: `fabric-portfolio-plan.md` in the
+workspace wiki).
 
 ## Branching — develop-flow
 
